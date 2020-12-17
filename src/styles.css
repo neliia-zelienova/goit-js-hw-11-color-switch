@@ -1,0 +1,12 @@
+.color-ctrl {
+  width: 150px;
+  display: flex;
+  margin-left: auto;
+  margin-top: 150px;
+  margin-right: auto;
+  justify-content: space-between;
+}
+
+.button {
+  font-size: 24px;
+}
